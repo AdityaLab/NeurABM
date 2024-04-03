@@ -1,1 +1,1 @@
-python3 main.py --datafile 'data/2019.pkl' --outputfile 'output/wk52.pkl' --startdate 1 --enddate 357 --predictdate 7 --epoch 10 --weight 0.1 --lr 0.01
+python3 main.py --datafile 'data/2019.pkl' --outputfile 'output/wk52.pkl' --startdate 1 --enddate 357 --predictdate 7 --epoch 100 --weight 0.1 --lr 0.01
