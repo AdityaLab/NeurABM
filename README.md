@@ -15,7 +15,7 @@ source activate ./envs/neurabm
 
 ```
 -data
-       - 2019.pkl -> synthetic EHR data as pkl file
+       - 2019.pkl -> EHR data as pkl file
 - run.sh -> shell file to run the NeurABM
 - main.py -> code to train NeurABM
 - framework.py -> NeurABM framework implementation
@@ -26,7 +26,7 @@ source activate ./envs/neurabm
 
 ## Dataset
 
-The dataset is at `data` folder. It contains the synthetic EHR data (2019.pkl) used for NeurABM. 
+The dataset is at `data` folder. It contains the synthetic EHR data used for NeurABM. 
 
 ## Demo
 
