@@ -14,7 +14,7 @@ source activate ./envs/neurabm
 ## Directory structure
 
 ```
--data
+- data
        - 2019.pkl -> EHR data as pkl file
 - run.sh -> shell file to run the NeurABM
 - main.py -> code to train NeurABM
