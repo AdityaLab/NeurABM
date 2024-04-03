@@ -1,10 +1,10 @@
 name: neurabm
 channels:
-  - anaconda
+  - conda-forge
   - pyg
   - pytorch
   - bioconda
-  - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - appdirs=1.4.4=pyhd3eb1b0_0
@@ -14,13 +14,14 @@ dependencies:
   - brotli-bin=1.0.9=hca72f7f_7
   - brotlipy=0.7.0=py310hca72f7f_1002
   - bzip2=1.0.8=h1de35cc_0
-  - ca-certificates=2022.12.7=h033912b_0
-  - certifi=2022.12.7=pyhd8ed1ab_0
+  - ca-certificates=2024.3.11=hecd8cb5_0
+  - certifi=2024.2.2=py310hecd8cb5_0
   - cffi=1.15.1=py310h6c40b1e_3
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - contourpy=1.0.5=py310haf03e11_0
   - cryptography=38.0.4=py310hf6deb26_0
   - cycler=0.11.0=pyhd3eb1b0_0
+  - decorator=5.1.1=pyhd3eb1b0_0
   - epiweeks=2.1.4=pyhdfd78af_0
   - ffmpeg=4.3=h0a44026_0
   - fftw=3.3.9=h9ed2024_1
@@ -70,12 +71,12 @@ dependencies:
   - munkres=1.1.4=py_0
   - ncurses=6.4=hcec6c5f_0
   - nettle=3.7.3=h230ac6f_1
-  - networkx=2.3
+  - networkx=2.5=py_0
   - numexpr=2.8.4=py310h9638375_0
   - numpy=1.23.5=py310h9638375_0
   - numpy-base=1.23.5=py310ha98c3c9_0
   - openh264=2.1.1=h8346a28_0
-  - openssl=1.1.1t=hfd90126_0
+  - openssl=1.1.1w=hca72f7f_0
   - packaging=22.0=py310hecd8cb5_0
   - pandas=1.5.2=py310h3ea8b11_0
   - pillow=9.3.0=py310hcec6c5f_2
@@ -117,4 +118,4 @@ dependencies:
   - yaml=0.2.5=haf1e3a3_0
   - zlib=1.2.13=h4dc903c_0
   - zstd=1.5.2=hcb37349_0
-prefix: /Users/jiamingcui/opt/anaconda3/envs/abm
+prefix: /Users/jiamingcui/opt/anaconda3/envs/neurabm
