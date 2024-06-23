@@ -1,4 +1,4 @@
-# Combining Agent-based Models and Neural Networks to Identify Importation and Nosocomial Infection Cases of Healthcare Associated Infections
+# Identifying Importation and Asymptomatic Spreaders of Multi-drug Resistant Organisms in Hospital Settings
 
 ## Setup
 
