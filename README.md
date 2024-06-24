@@ -45,11 +45,9 @@ The dataset is at `data` folder. It contains the synthetic EHR data used for Neu
 
 ## Demo
 
-We provde a demo code and a synthetic dataset to run the NeurABM. The demo code usually takes 1-2 hours to run.
-Run:
+We provde a demo code and a synthetic dataset to run the NeurABM. The demo code usually takes 1-2 hours to run,
 
 ```
-chmod 777 run.sh
 ./run.sh
 ```
 This will save the results in output folder.
