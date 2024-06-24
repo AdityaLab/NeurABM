@@ -30,7 +30,7 @@ source activate ./envs/neurabm
        - data -> Experiment results to reproduce Figure 4.
 	- Figure4.py -> Running this code directly will reproduce Figure 4.
 - data
-       - 2019.pkl -> EHR data as pkl file
+       - synthetic.pkl -> EHR data as pkl file
 - run.sh -> shell file to run the NeurABM
 - main.py -> code to train NeurABM
 - framework.py -> NeurABM framework implementation

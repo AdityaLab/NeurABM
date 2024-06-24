@@ -27,7 +27,7 @@ if __name__ == '__main__':
     parser.add_argument('--enddate', type=int)
     parser.add_argument('--predictdate', type=int, default=7)
     parser.add_argument('--epoch', type=int, default=100)
-    parser.add_argument('--weight', type=float, default=0.1)
+    parser.add_argument('--weight', type=float, default=1)
     parser.add_argument('--lr', type=float, default=0.01)
 
     args = parser.parse_args()
