@@ -6,6 +6,21 @@ We demonstrate our NeurABM in identifying MRSA importation and nosocomial infect
 
 The outputs of our model are available in this repo. The electronic health record (EHR) data used in developing the models is not available since it is highly sensitive, and we do not have permission to release it.
 
+## Citation
+
+If you find this repo useful, please cite our paper.
+
+```
+@article{cui2025identifying,
+  title={Identifying and forecasting importation and asymptomatic spreaders of multi-drug resistant organisms in hospital settings},
+  author={Cui, Jiaming and Heavey, Jack and Klein, Eili Y and Madden, Gregory R and Sifri, Costi D and Vullikanti, Anil K and Prakash, B Aditya},
+  journal={npj Digital Medicine},
+  volume={8},
+  number={147},
+  year={2025}
+}
+```
+
 ## Setup
 
 First install Anaconda. The dependencies are listed in `environment.yml` file. 
