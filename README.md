@@ -8,7 +8,7 @@ The outputs of our model are available in this repo. The electronic health recor
 
 ## Citation
 
-If you find this repo useful, please cite our paper.
+If you use any part of the code or find the repo useful, please cite our paper.
 
 ```
 @article{cui2025identifying,
